@@ -53,7 +53,7 @@ git config --global user.email "your.email@example.com"
 ```bash
 # Clone the repository
 git clone https://github.com/falco1-plk/OSSAudit24BSA10135.git
-cd oss-audit-24BCE10224
+cd oss-audit-24BSA10135
 
 # Make all scripts executable (REQUIRED)
 chmod +x scripts/*.sh
