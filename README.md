@@ -1,12 +1,11 @@
 # OSSAudit-Git(24BSA10135)
-# OSS Audit — Git (24BCE10224)
 
 **Student:** Aishwary Jaiswal
 **Roll Number:** 24BSA10135
 **Course:** Open Source Software — CSE0002
 **Chosen Software:** Git (Version Control System)
 **License:** GNU General Public License v2 (GPL v2)
-**Repository:** https://github.com/AYUSHMISHRAOFFICIAL/OSSAudit24BCE10224.git
+**Repository:** https://github.com/falco1-plk/OSSAudit24BSA10135.git
 
 ---
 
@@ -53,7 +52,7 @@ git config --global user.email "your.email@example.com"
 ### 4. Clone & Execution
 ```bash
 # Clone the repository
-git clone https://github.com/AYUSHMISHRAOFFICIAL/OSSAudit24BCE10224.git
+git clone https://github.com/falco1-plk/OSSAudit24BSA10135.git
 cd oss-audit-24BCE10224
 
 # Make all scripts executable (REQUIRED)
@@ -68,7 +67,7 @@ chmod +x scripts/*.sh
 ## Repository Structure
 
 ```
-oss-audit-24BCE10224/
+oss-audit-24BSA10135/
 ├── README.md                              ← Project documentation (this file)
 ├── PROJECT_REPORT.md                      ← Final project report (full audit)
 └── scripts/
